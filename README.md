@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jake
 - 👀 I’m interested in all things cyber security and blockchain.
-- 🌱 I’m currently learning cyber security and hopefully later learn blockchain security to become an Auditer.
+- 🌱 I’m currently learning cyber security to become a blue team member and hopefully later learn blockchain security to become an auditer in the distant future.
 
 
 <!---
