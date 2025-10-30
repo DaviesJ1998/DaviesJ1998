@@ -35,13 +35,23 @@
 - Report writing  
 
 **Home Lab (Completed)**:  
-- Flash drive Linux live test  
-- Dual-boot Windows OS & Linux Fedora OS installed  
-- SOC Alert triage analysis report  
-- SOC Intrusion detection with Wireshark  
-- Threat hunt report – malware families analysis  
-- Cyber fundamentals: CIA triad  
-- Monitor system processes with `htop` to simulate SOC triage  
+- Flash drive Linux live test
+   
+- Dual-boot Windows OS & Linux Fedora OS installed
+    
+- SOC Alert triage analysis report
+  https://github.com/DaviesJ1998/SOC-L1-Lab-Fake-Auth-Log-Triage
+    
+- SOC Intrusion detection with Wireshark
+  https://github.com/DaviesJ1998/wireshark-basics-lab-2025
+    
+- Threat hunt report – malware families analysis
+  https://github.com/DaviesJ1998/coldriver-2025-threat-report
+   
+- Cyber fundamentals: CIA triad
+   
+- Monitor system processes with `htop` to simulate SOC triage
+  https://github.com/DaviesJ1998/htop-soc-alert  
 
 ---
 
