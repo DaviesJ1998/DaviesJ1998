@@ -24,43 +24,28 @@
 ### Cybersecurity – Blue Team Track
 **Currently studying**:  
 - CompTIA Security+ (in progress)  
-- Google Cybersecurity Professional Certificate (via Tech Vets + Coursera)  
+- CompTIA Cloud+ (planned) 
 - AWS Cloud Practitioner (planned)
 
 **Current focus**:  
 - Networking Basics  
 - SOC Team basics  
-- Wireshark packet basics  
-- SIEM Basics  
-- Report writing  
+- Linux Bash
+- Splunk  
+- Report writing
 
 **Home Lab (Completed)**:  
 - Flash drive Linux live test
-   
 - Dual-boot Windows OS & Linux Fedora OS installed
     
-- SOC Alert triage analysis report
-  https://github.com/DaviesJ1998/SOC-L1-Lab-Fake-Auth-Log-Triage
-    
-- SOC Intrusion detection with Wireshark
-  https://github.com/DaviesJ1998/wireshark-basics-lab-2025
-    
-- Threat hunt report – malware families analysis
-  https://github.com/DaviesJ1998/coldriver-2025-threat-report
-   
-- Cyber fundamentals: CIA triad
-   
-- Monitor system processes with `htop` to simulate SOC triage
-  https://github.com/DaviesJ1998/htop-soc-alert  
+### **L1 SOC Skill Demo (Live Labs)**
+| Skill | Proof |
+|-------|-------|
+| **Alert Triage** | [htop-soc-alert → CPU spike → ticket](https://github.com/DaviesJ1998/htop-soc-alert) |
+| **Linux Log Hunt** | [Fake Auth Log Triage → 100 failed logins](https://github.com/DaviesJ1998/SOC-L1-Lab-Fake-Auth-Log-Triage) |
+| **Threat Report** | [COLDRIVER 2025 Chain → IOCs + Mitigation](https://github.com/DaviesJ1998/coldriver-2025-threat-report) |
+| **Packet Basics** | [Wireshark → HTTP C2 filter](https://github.com/DaviesJ1998/wireshark-basics-lab-2025) |
 
----
-
-### Future: Blockchain Security
-- Long-term goal: **Smart contract auditing**  
-- Learning Solidity, DeFi protocols, and secure coding  
-- Applying operational discipline to web3 resilience
-
-  
 
 ---
 
