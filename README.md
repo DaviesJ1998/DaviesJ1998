@@ -1,7 +1,7 @@
 # Hi, I'm Jake
 
 - I'm interested in all things cyber security and blockchain.  
-- I'm currently learning cyber security to become a blue team member and hopefully later learn blockchain security to become an auditor in the distant future.
+- I'm currently learning cyber security fundamentals to become a blue team member and hopefully later learn blockchain & smart contracts to become an auditor in the future.
 
 ---
 
@@ -9,7 +9,7 @@
 **8 years in high-pressure operational environments** (RAF Regiment & 1 RHA)
 
 - **Role**: Brigade-level TACP signaller supporting JTACs  
-  - Executed **initial CAS stages**: aircraft check-in, routing, deconfliction, SITREPs, sensor tasking  
+  - Executed **initial CAS stages**: aircraft check-in, routing, deconfliction, SITREPs, sensor taskings, communitcations and equipments handling  
   - Controlled aircraft in ROZs with secure HF/VHF comms  
   - Delivered real-time updates under operational pressure  
 
@@ -23,15 +23,15 @@
 
 ### Cybersecurity – Blue Team Track
 **Currently studying**:  
-- CompTIA Security+ (in progress)  
-- CompTIA Cloud+ (planned) 
+- TryHackMe Cyber Security Fundamentals (in progress)  
+- CompTIA Security+ (planned) 
 - AWS Cloud Practitioner (planned)
 
 **Current focus**:  
 - Networking Basics  
-- SOC Team basics  
+- CIA Triad 
 - Linux Bash
-- Splunk  
+- Windows Basics  
 - Report writing
 
 **Home Lab (Completed)**:  
